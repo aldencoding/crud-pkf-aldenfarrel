@@ -18,3 +18,12 @@
 - PHP ≥ 8.2
 - Composer
 - Database MySQL
+
+### ENV
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3307
+DB_DATABASE=pkf_crud
+DB_USERNAME=root
+DB_PASSWORD=
