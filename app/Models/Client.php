@@ -9,7 +9,7 @@ class Client extends Model
 {
     use HasFactory;
 
-    protected $primaryKey = 'id_client';   // kita ubah juga id_klien jadi id_client
+    protected $primaryKey = 'id_client';
     public $incrementing = false;
     protected $keyType = 'string';
 
